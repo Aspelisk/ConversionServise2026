@@ -8,6 +8,7 @@ import javafx.stage.Stage;
 import javax.sound.sampled.*;
 import java.io.File;
 import java.io.IOException;
+git --version
 
 public class Main extends Application {
 
